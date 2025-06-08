@@ -9,7 +9,7 @@ function swap(el1, el2) {
 }
 var inputArray = [];
 var elements;
-var abc;
+
 
 async function InputArray() {
   console.log("InputArray()");
